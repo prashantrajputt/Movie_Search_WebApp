@@ -1,2 +1,8 @@
-# Movie_Search_WebApp
-I have built a react based movie search engine.I used a real-world API that can fetch and display all kinds of movie data. We can hover over the movie, make it as favourite and also we can search for any movie through the search box.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
